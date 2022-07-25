@@ -147,12 +147,19 @@ img {
     }
 
     h3 {
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .text {
         width: 350px;
         margin-left: -120px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    .text-lesson {
+        width: 350px;
+        margin-left: -80px;
     }
 
     img {
@@ -178,6 +185,21 @@ img {
         margin-bottom: 100px;
         transform: scale(1.5);
     }
+
+    .lessons {
+        margin-bottom: 40px;
+    }
+
+    .steps {
+        margin: 0;
+    }
+
+    .why-us {
+        background: #222;
+        padding-top: 40px;
+        margin-bottom: 0;
+    }
+
 }
 
 
