@@ -174,8 +174,9 @@ img {
     }
 
     .lesson-img {
-        margin-top: 60px;
+        margin-top: 70px;
         margin-bottom: 100px;
+        transform: scale(1.5);
     }
 }
 
